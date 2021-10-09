@@ -1,2 +1,2 @@
 config:
-  info: "master branch,Spring Cloud -config/config-dev.yml version=1"
+  info: "dev branch,Spring Cloud -config/config-dev.yml version=1"
